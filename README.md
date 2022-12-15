@@ -17,6 +17,9 @@ Um layout final bem elaborado e desenhado aponta para um diferencial seu, mas n�
 
 ## O Desafio
 
+Este é o layout que deverá ser produzido:
+![layout](layout.png)
+
 ## Especificação das funcionalidades
 
 Ao finalizar o desafio, o usuário deverá estar habilitado a cadastrar novas clínicas no formulário. Ao buscar a rede via geo-localização o mapa deverá pinar as clínicas da localização informada e carregar as clínicas nos cards inferiores.
